@@ -1,0 +1,7 @@
+2020-12-25 17:17:26.692  INFO 2784 --- [restartedMain] c.c.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 13.0.2 on LAPTOP-2DQUBLJ8 with PID 2784 (H:\java-eclipse\EmployeePayrollApp-1\target\classes started by ganeshrapeti in H:\java-eclipse\EmployeePayrollApp-1)
+2020-12-25 17:17:26.700 DEBUG 2784 --- [restartedMain] c.c.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-25 17:17:26.700  INFO 2784 --- [restartedMain] c.c.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-25 17:17:31.031  WARN 2784 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-12-25 17:17:35.729  INFO 2784 --- [restartedMain] c.c.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 9.652 seconds (JVM running for 11.298)
+2020-12-25 17:17:35.733  INFO 2784 --- [restartedMain] c.c.e.EmployeePayrollApplication         : Employee Payroll App Started in DEV Environment
+2020-12-25 17:17:35.735  INFO 2784 --- [restartedMain] c.c.e.EmployeePayrollApplication         : Employee Payroll DB User is payrolluser 
